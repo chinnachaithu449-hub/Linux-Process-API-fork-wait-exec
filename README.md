@@ -65,6 +65,7 @@ return 0;
 ##OUTPUT
 
 
+<img width="1917" height="638" alt="Screenshot 2026-11-13 091338" src="https://github.com/user-attachments/assets/b1416434-24c3-45ee-bb15-351f7c66f64b" />
 
 
 
